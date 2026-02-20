@@ -1,5 +1,7 @@
 <?php
 
+// Juan Camilo Pulgarin - Alejandro Díaz Ruiz
+
 namespace App\Http\Controllers\Api;
 
 use App\Http\Controllers\Controller;

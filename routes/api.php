@@ -1,5 +1,7 @@
 <?php
 
+// Juan Camilo Pulgarin - Alejandro Díaz Ruiz
+
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\Api\CursoController;
 
